@@ -10,6 +10,8 @@ https://github.com/PhilChodrow/hypergraph
 
 https://github.com/brincolab/High-Order-interactions
 
+https://github.com/fugacci/Check-Decompositions
+
 
 Packages for networks and neuroscience:
 

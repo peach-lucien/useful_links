@@ -12,7 +12,14 @@ https://github.com/brincolab/High-Order-interactions
 
 https://github.com/fugacci/Check-Decompositions
 
+https://github.com/uzhdag/pathpy
+
 
 Packages for networks and neuroscience:
 
 https://github.com/brincolab/High-Order-interactions
+
+
+Packages for graph visualisation:
+
+https://graph-tool.skewed.de/

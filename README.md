@@ -4,6 +4,8 @@ Links to software packages in graph theory
 
 Packages for Higher Order Networks:
 
+https://github.com/pnnl/HyperNetX
+
 https://github.com/floklimm/hypergraph
 
 https://github.com/PhilChodrow/hypergraph
